@@ -1,9 +1,10 @@
 [project]
 name = "greeting_name"
-version = "1.5"
+version = "1.6"
 authors = [
-  { name = "gaurav sharma", email = "gauravsh839@gamil.com" },
+  { name = "user name", email = "user@example.com" },
 ]
+
 description = "A small example package"
 readme = "README.md"
 requires-python = ">=3.8"

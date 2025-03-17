@@ -5,9 +5,9 @@ index-servers =
 
 [pypi]
 username : __token__
-password : api token
+password : (api token by pypi)
 
 [testpypi]
 repository: https://test.pypi.org/legacy/
 username : __token__
-password : api token
+password : (api token by pypi)
